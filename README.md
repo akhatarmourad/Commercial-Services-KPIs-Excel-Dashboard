@@ -1,8 +1,8 @@
-# C# Commercial Service KPIs Excel Dashboard
+# Commercial Service KPIs Excel Dashboard
 
 An Excel dashboard that tracks and analyzes sales data for products, sellers, and clients across various USA states using pivot tables, advanced filters, and visualizations and much more.
 
-![Project Banner]('./project-banner.png')
+![Project Banner](./project-banner.png)
 
 
 ## Usage
@@ -22,7 +22,7 @@ The Excel file includes three sheets:
 
 ## Demo
 
-![Demo]('./commercial_dashboard.svg')
+![Demo](./commercial_dashboard.svg)
 
 ## Contact
 
